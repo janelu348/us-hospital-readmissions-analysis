@@ -1,0 +1,3 @@
+readmission_group,hospital_condition_rows,nurse_communication_pct,doctor_communication_pct,staff_responsiveness_pct,discharge_information_pct,definitely_recommend_pct,care_transition_score
+At or below expected,5919,76.9,77.3,60.0,85.8,67.8,80.2
+Above expected,5522,75.7,76.1,58.6,84.6,65.4,79.4

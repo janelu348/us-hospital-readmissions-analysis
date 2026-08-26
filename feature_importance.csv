@@ -1,0 +1,12 @@
+feature,feature_name,importance,importance_std
+number_of_discharges,Number of discharges,0.1275234615309261,0.003384869337413406
+condition,Medical condition,0.023555368886450778,0.0038740141404592196
+discharge_information_pct,Discharge information,0.0219638787118852,0.008310858415389574
+doctor_communication_pct,Doctor communication,0.009643391260620537,0.002491317581127932
+ownership_group,Ownership group,0.0037189057163195425,0.0027647953906260354
+nurse_communication_pct,Nurse communication,0.003623639165899306,0.0025836477230590103
+staff_responsiveness_pct,Staff responsiveness,0.002634809924047965,0.0027040301277944188
+definitely_recommend_pct,Definitely recommend,0.0022047634907884305,0.002717559805928179
+care_transition_score,Care transition,0.002144354538508231,0.0023985655411503165
+promoting_interoperability,EHR interoperability,0.0004902104843818034,0.0005085453446148297
+emergency_services,Emergency services,-0.0019608419375273358,0.000655253072128396

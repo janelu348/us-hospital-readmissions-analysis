@@ -1,0 +1,7 @@
+condition,hospital_condition_rows,hospitals,high_readmission_pct,average_ratio
+Bypass surgery (CABG),878,878,49.9,1.002
+Heart attack (AMI),1732,1732,49.7,1.002
+Heart failure,2543,2543,48.8,1.001
+Hip/knee replacement,1428,1428,47.9,1.004
+Pneumonia,2573,2573,47.3,1.002
+COPD,2287,2287,47.3,1.001
