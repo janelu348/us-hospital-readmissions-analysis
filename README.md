@@ -110,8 +110,7 @@ The queries compare readmissions by medical condition and ownership and compare 
 
 ```text
 us-hospital-readmissions-analysis/
-|-- data/
-|   `-- tableau_dashboard_data.csv
+|
 |-- notebooks/
 |   `-- hospital_readmissions_analysis.ipynb
 |-- outputs/
